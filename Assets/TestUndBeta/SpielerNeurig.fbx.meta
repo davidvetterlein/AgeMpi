@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: c09582fb179dc2b488c6ab908398830c
+timeCreated: 1458899256
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Becken
+    100004: Beckenr
+    100006: Camera
+    100008: Fuss
+    100010: Fuss_end
+    100012: Fussr
+    100014: Fussr_end
+    100016: Hals
+    100018: hand
+    100020: hand_end
+    100022: handr
+    100024: handr_end
+    100026: Kopf
+    100028: Kopf_end
+    100030: Lamp
+    100032: oberarm
+    100034: Oberarmr
+    100036: Oberschenkel
+    100038: Oberschenkelr
+    100040: Rucken
+    100042: ruckenschulter
+    100044: schulter
+    100046: schulterr
+    100048: Schulterruckenr
+    100050: Sphere
+    100052: //RootNode
+    100054: unterarm
+    100056: Unterarmr
+    100058: Unterbein
+    100060: Unterbeinr
+    100062: Unterrucken
+    400000: Armature
+    400002: Becken
+    400004: Beckenr
+    400006: Camera
+    400008: Fuss
+    400010: Fuss_end
+    400012: Fussr
+    400014: Fussr_end
+    400016: Hals
+    400018: hand
+    400020: hand_end
+    400022: handr
+    400024: handr_end
+    400026: Kopf
+    400028: Kopf_end
+    400030: Lamp
+    400032: oberarm
+    400034: Oberarmr
+    400036: Oberschenkel
+    400038: Oberschenkelr
+    400040: Rucken
+    400042: ruckenschulter
+    400044: schulter
+    400046: schulterr
+    400048: Schulterruckenr
+    400050: Sphere
+    400052: //RootNode
+    400054: unterarm
+    400056: Unterarmr
+    400058: Unterbein
+    400060: Unterbeinr
+    400062: Unterrucken
+    4300000: Sphere
+    9500000: //RootNode
+    13700000: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
